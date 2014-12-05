@@ -3,7 +3,7 @@
 // var squeeze = function(string){
 //   var strArr = str.split(''); //splitting string into array
 //   var strArrlen = strArr.length;
-//   for (i=0, i<strArrlen, i++) {
+//   for (i=0; i<strArrlen; i++) {
 //     if(strArr[i] === strArr[i+1]) {
 //       strArr.splice(i,1); //splicing out the duplicate
 //       strArrLen=str.length;
